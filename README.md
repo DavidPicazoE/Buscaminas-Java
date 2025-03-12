@@ -3,7 +3,7 @@ A simple Minesweeper game developed in Java, featuring different difficulty leve
 
 ## 📸 Screenshot  
 ![Buscaminas Java Screenshot](assets/B1.png)  
-![Buscaminas Java Screenshot](assets/B1.png)  
+![Buscaminas Java Screenshot](assets/B2.png)  
 ![Buscaminas Java Screenshot](assets/B3.png)  
 
 
